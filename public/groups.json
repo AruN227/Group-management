@@ -1,0 +1,33 @@
+[
+    {
+        "id": "1",
+        "groupName": "Leather",
+        "division": ["Upper"],
+        "updatedOn": "05/12/2023 10:15 PM"
+    },
+    {
+        "id": "2",
+        "groupName": "Foil",
+        "division": ["Upper"],
+        "updatedOn": "05/12/2023 10:15 PM"
+    },
+    {
+        "id": "3",
+        "groupName": "Tapes",
+        "division": ["Upper"],
+        "updatedOn": "05/12/2023 10:15 PM"
+    },
+    {
+        "id": "4",
+        "groupName": "Other Sole",
+        "division": ["Sole"],
+        "updatedOn": "05/12/2023 10:15 PM"
+    },
+    {
+        "id": "5",
+        "groupName": "Threads",
+        "division": ["Upper", "Sole", "Full Shoe"],
+        "updatedOn": "05/12/2023 10:15 PM"
+    }
+	
+]
